@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gx5k7mf43hm8ftr9?svg=true)](https://ci.appveyor.com/project/SeniorTe/apitesting)
